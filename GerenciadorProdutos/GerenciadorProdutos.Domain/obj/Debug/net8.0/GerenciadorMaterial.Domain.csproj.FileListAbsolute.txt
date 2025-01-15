@@ -1,0 +1,11 @@
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\bin\Debug\net8.0\GerenciadorMaterial.Domain.deps.json
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\bin\Debug\net8.0\GerenciadorMaterial.Domain.dll
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\bin\Debug\net8.0\GerenciadorMaterial.Domain.pdb
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\GerenciadorMaterial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\GerenciadorMaterial.Domain.AssemblyInfoInputs.cache
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\GerenciadorMaterial.Domain.AssemblyInfo.cs
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\GerenciadorMaterial.Domain.csproj.CoreCompileInputs.cache
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\GerenciadorMaterial.Domain.dll
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\refint\GerenciadorMaterial.Domain.dll
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\GerenciadorMaterial.Domain.pdb
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProdutos.Domain\obj\Debug\net8.0\ref\GerenciadorMaterial.Domain.dll

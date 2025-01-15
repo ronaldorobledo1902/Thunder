@@ -1,0 +1,6 @@
+services:
+  gerenciadormaterial.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+        - "32033:8080"

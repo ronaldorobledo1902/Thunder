@@ -1,0 +1,15 @@
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\bin\Debug\net8.0\GerenciadorMaterial.Infra.deps.json
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\bin\Debug\net8.0\GerenciadorMaterial.Infra.dll
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\bin\Debug\net8.0\GerenciadorMaterial.Infra.pdb
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\bin\Debug\net8.0\GerenciadorMaterial.Domain.dll
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\bin\Debug\net8.0\GerenciadorMaterial.Domain.pdb
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\GerenciadorMaterial.Infra.csproj.AssemblyReference.cache
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\GerenciadorMaterial.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\GerenciadorMaterial.Infra.AssemblyInfoInputs.cache
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\GerenciadorMaterial.Infra.AssemblyInfo.cs
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\GerenciadorMaterial.Infra.csproj.CoreCompileInputs.cache
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\Gerencia.9FF40B6C.Up2Date
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\GerenciadorMaterial.Infra.dll
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\refint\GerenciadorMaterial.Infra.dll
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\GerenciadorMaterial.Infra.pdb
+C:\Estudo\GerenciadorProdutos\GerenciadorProdutos\GerenciadorProduto.Infra\obj\Debug\net8.0\ref\GerenciadorMaterial.Infra.dll
