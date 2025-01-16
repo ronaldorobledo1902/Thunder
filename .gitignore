@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GerenciadorProdutos/FileContentIndex
+/bin/Debug
+/GerenciadorProduto.Infra/bin/Debug/net8.0
+/GerenciadorProduto.Infra/obj
+/GerenciadorProdutos/bin/Debug/net8.0
+/GerenciadorProdutos/obj
+/GerenciadorProdutos.Domain/bin/Debug/net8.0
+/GerenciadorProdutos.Domain/obj
+/obj
