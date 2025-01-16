@@ -1,0 +1,21 @@
+services:
+  gerenciadormaterial.api:
+    image: ${DOCKER_REGISTRY-}gerenciadormaterialapi
+    build:
+      context: .
+      dockerfile: GerenciadorProdutos/Dockerfile
+    depends_on:
+      - sqlserver
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    hostname: 'sqlserver'
+    environment:
+      ACCEPT_EULA: 'Y'
+      SA_PASSWORD: "Teste#2024"
+      MSSQL_PID: "Express"
+    volumes:
+      - c:\dados\volumes\mssql:/var/opt/mssql3
+    ports:
+      - '11433:1433'    
+    expose:
+      - 1433
